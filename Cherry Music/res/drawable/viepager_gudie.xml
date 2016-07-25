@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:maxLevel="0">
+        <layer-list>
+            <item>
+                <bitmap
+                    android:gravity="center"
+                    android:src="@drawable/page_now" />
+            </item>
+            <item android:left="30dp">
+                <bitmap
+                    android:gravity="center"
+                    android:src="@drawable/page_now" />
+            </item>
+            <item android:right="30dp">
+                <bitmap
+                    android:gravity="center"
+                    android:src="@drawable/page" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="1">
+        <layer-list>
+            <item>
+                <bitmap
+                    android:gravity="center"
+                    android:src="@drawable/page" />
+            </item>
+            <item android:left="30dp">
+                <bitmap
+                    android:gravity="center"
+                    android:src="@drawable/page_now" />
+            </item>
+            <item android:right="30dp">
+                <bitmap
+                    android:gravity="center"
+                    android:src="@drawable/page_now" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="2"
+        
+        >
+        <layer-list>
+            <item>
+                <bitmap
+                    android:gravity="center"
+                    android:src="@drawable/page_now" />
+            </item>
+            <item android:left="30dp">
+                <bitmap
+                    android:gravity="center"
+                    android:src="@drawable/page" />
+            </item>
+            <item android:right="30dp">
+                <bitmap
+                    android:gravity="center"
+                    android:src="@drawable/page_now" />
+            </item>
+        </layer-list>
+    </item>
+
+</level-list>

@@ -1,0 +1,64 @@
+10
+
+dir
+213
+https://192.168.10.77/svn/music/Music/src/com/nine/music
+https://192.168.10.77/svn/music
+
+
+
+2015-05-27T11:56:13.319549Z
+213
+dongxueliang
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0b206a25-f658-8c49-a917-48d147cf37d6
+
+activity
+dir
+
+adapter
+dir
+
+config
+dir
+
+constants
+dir
+
+dbhelper
+dir
+
+fragment
+dir
+
+lrc
+dir
+
+parser
+dir
+
+receive
+dir
+
+service
+dir
+
+utils
+dir
+
+view
+dir
+

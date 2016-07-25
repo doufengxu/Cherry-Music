@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp" >
+
+        <ImageView
+            android:id="@+id/music_back"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/g"
+            android:src="@drawable/btn_back" />
+
+        <TextView
+            android:id="@+id/music_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:textColor="#ffffff" />
+
+        <ImageView
+            android:id="@+id/music_name_option"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/g"
+            android:src="@drawable/ic_history" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:padding="15dp" >
+
+        <ImageView
+            android:id="@+id/music_start_stop"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/gg"
+            android:src="@drawable/ic_stop" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+           
+            android:textColor="#ffffff" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/music_pic"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_below="@+id/relativeLayout2"
+        android:background="@drawable/aa"
+        android:scaleType="fitXY"
+        android:src="@drawable/w" />
+
+</RelativeLayout>

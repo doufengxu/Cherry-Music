@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/music/!svn/ver/212/Music/res/layout
+END
+activity_search.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/music/!svn/ver/212/Music/res/layout/activity_search.xml
+END
+fragment_seclection_find.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/music/!svn/ver/212/Music/res/layout/fragment_seclection_find.xml
+END
+skyblue_editpage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/music/!svn/ver/212/Music/res/layout/skyblue_editpage.xml
+END
+fragment_favourite_find.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/music/!svn/ver/212/Music/res/layout/fragment_favourite_find.xml
+END
+item_headview_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/music/!svn/ver/212/Music/res/layout/item_headview_fragment.xml
+END
+item_selection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/music/!svn/ver/212/Music/res/layout/item_selection.xml
+END
+activity_play.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/music/!svn/ver/212/Music/res/layout/activity_play.xml
+END
+item_local_singer_listview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/music/!svn/ver/212/Music/res/layout/item_local_singer_listview.xml
+END
+notification_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/music/!svn/ver/212/Music/res/layout/notification_item.xml
+END
+activity_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/music/!svn/ver/212/Music/res/layout/activity_main.xml
+END
+item_radio_find.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/music/!svn/ver/212/Music/res/layout/item_radio_find.xml
+END
+activity_top_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/music/!svn/ver/212/Music/res/layout/activity_top_detail.xml
+END
+skyblue_share_platform_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/music/!svn/ver/212/Music/res/layout/skyblue_share_platform_list_item.xml
+END
+item_seting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/music/!svn/ver/212/Music/res/layout/item_seting.xml
+END
+item_local_song_listview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/music/!svn/ver/212/Music/res/layout/item_local_song_listview.xml
+END
+activity_topsmall_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/music/!svn/ver/212/Music/res/layout/activity_topsmall_detail.xml
+END
+skyblue_editpage_inc_image_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/music/!svn/ver/212/Music/res/layout/skyblue_editpage_inc_image_layout.xml
+END
+item_rank_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/music/!svn/ver/212/Music/res/layout/item_rank_title.xml
+END
+fragment_center_music_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/music/!svn/ver/212/Music/res/layout/fragment_center_music_list.xml
+END
+radio_detailed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/music/!svn/ver/212/Music/res/layout/radio_detailed.xml
+END
+item_similar_play.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/music/!svn/ver/212/Music/res/layout/item_similar_play.xml
+END
+activity_feedback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/music/!svn/ver/212/Music/res/layout/activity_feedback.xml
+END
+main_buttom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/music/!svn/ver/212/Music/res/layout/main_buttom.xml
+END
+singer_song.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/music/!svn/ver/212/Music/res/layout/singer_song.xml
+END
+skyblue_share_actionbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/music/!svn/ver/212/Music/res/layout/skyblue_share_actionbar.xml
+END
+item_top_pic_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/music/!svn/ver/212/Music/res/layout/item_top_pic_detail.xml
+END
+fragment_local.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/music/!svn/ver/212/Music/res/layout/fragment_local.xml
+END
+fragment_rank_find.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/music/!svn/ver/212/Music/res/layout/fragment_rank_find.xml
+END
+item_favourite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/music/!svn/ver/212/Music/res/layout/item_favourite.xml
+END
+activity_first.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/music/!svn/ver/212/Music/res/layout/activity_first.xml
+END
+fragment_center_music_info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/music/!svn/ver/212/Music/res/layout/fragment_center_music_info.xml
+END
+alertdialog_share.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/music/!svn/ver/212/Music/res/layout/alertdialog_share.xml
+END
+skyblue_share_platform_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/music/!svn/ver/212/Music/res/layout/skyblue_share_platform_list.xml
+END
+fragment_find.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/music/!svn/ver/212/Music/res/layout/fragment_find.xml
+END
+fragment_center_music_play.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/music/!svn/ver/212/Music/res/layout/fragment_center_music_play.xml
+END
+fragment_radio_find.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/music/!svn/ver/212/Music/res/layout/fragment_radio_find.xml
+END
+activity_guide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/music/!svn/ver/212/Music/res/layout/activity_guide.xml
+END
+fragment_guide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/music/!svn/ver/212/Music/res/layout/fragment_guide.xml
+END
+music_name_option.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/music/!svn/ver/212/Music/res/layout/music_name_option.xml
+END
+fragment_seting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/music/!svn/ver/212/Music/res/layout/fragment_seting.xml
+END
+fragment_center_local.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/music/!svn/ver/212/Music/res/layout/fragment_center_local.xml
+END
+skyblue_editpage_at_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/music/!svn/ver/212/Music/res/layout/skyblue_editpage_at_layout.xml
+END
+item_search.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/music/!svn/ver/212/Music/res/layout/item_search.xml
+END
+item_playlist_play.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/music/!svn/ver/212/Music/res/layout/item_playlist_play.xml
+END
+item_singer_song_listview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/music/!svn/ver/212/Music/res/layout/item_singer_song_listview.xml
+END

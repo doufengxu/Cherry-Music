@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/music/!svn/ver/213/Music/src/com/nine/music/fragment
+END
+FindFavouriteFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/music/!svn/ver/213/Music/src/com/nine/music/fragment/FindFavouriteFragment.java
+END
+CenterMusicInfoFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/music/!svn/ver/212/Music/src/com/nine/music/fragment/CenterMusicInfoFragment.java
+END
+CenterMusicListFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/music/!svn/ver/212/Music/src/com/nine/music/fragment/CenterMusicListFragment.java
+END
+GuideFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/music/!svn/ver/212/Music/src/com/nine/music/fragment/GuideFragment.java
+END
+CenterPlayMusicFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/music/!svn/ver/212/Music/src/com/nine/music/fragment/CenterPlayMusicFragment.java
+END
+LocalFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/music/!svn/ver/212/Music/src/com/nine/music/fragment/LocalFragment.java
+END
+FindFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/music/!svn/ver/212/Music/src/com/nine/music/fragment/FindFragment.java
+END
+FragmentTopDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/music/!svn/ver/212/Music/src/com/nine/music/fragment/FragmentTopDetail.java
+END
+CommenLocalFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/music/!svn/ver/212/Music/src/com/nine/music/fragment/CommenLocalFragment.java
+END
+FindRankFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/music/!svn/ver/212/Music/src/com/nine/music/fragment/FindRankFragment.java
+END
+FindSelectionFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/music/!svn/ver/212/Music/src/com/nine/music/fragment/FindSelectionFragment.java
+END
+FindRadioFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/music/!svn/ver/212/Music/src/com/nine/music/fragment/FindRadioFragment.java
+END

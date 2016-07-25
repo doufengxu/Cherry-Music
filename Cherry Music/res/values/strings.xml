@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">樱桃音乐</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <color name="my_color1">#e92271</color>
+    <color name="my_color2">#ff99ff</color>
+    <color name="my_color3">#FFFFFF</color>
+    <color name="my_color4">#999999</color>
+    <color name="rank_textColor">#C4BCBC</color>
+    <color name="rank_artistColor">#8B8989</color>
+
+</resources>

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/music/!svn/ver/212/Music/src/com/nine/music/dbhelper
+END
+MyContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/music/!svn/ver/212/Music/src/com/nine/music/dbhelper/MyContentProvider.java
+END
+DBHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/music/!svn/ver/212/Music/src/com/nine/music/dbhelper/DBHelper.java
+END
+SQLiteHelpers.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/music/!svn/ver/212/Music/src/com/nine/music/dbhelper/SQLiteHelpers.java
+END

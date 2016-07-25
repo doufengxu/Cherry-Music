@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/music/!svn/ver/213/Music/src/com/nine/music/adapter
+END
+Local_Singer_Adapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/music/!svn/ver/212/Music/src/com/nine/music/adapter/Local_Singer_Adapter.java
+END
+TopSmallAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/music/!svn/ver/212/Music/src/com/nine/music/adapter/TopSmallAdapter.java
+END
+CentrePlayingAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/music/!svn/ver/212/Music/src/com/nine/music/adapter/CentrePlayingAdapter.java
+END
+Local_Song_Adapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/music/!svn/ver/212/Music/src/com/nine/music/adapter/Local_Song_Adapter.java
+END
+CommenLocalFragmentAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/music/!svn/ver/212/Music/src/com/nine/music/adapter/CommenLocalFragmentAdapter.java
+END
+Singer_song_Adapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/music/!svn/ver/212/Music/src/com/nine/music/adapter/Singer_song_Adapter.java
+END
+MusicControlAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/music/!svn/ver/212/Music/src/com/nine/music/adapter/MusicControlAdapter.java
+END
+SearchAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/music/!svn/ver/212/Music/src/com/nine/music/adapter/SearchAdapter.java
+END
+FindAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/music/!svn/ver/212/Music/src/com/nine/music/adapter/FindAdapter.java
+END
+FavouriteAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/music/!svn/ver/213/Music/src/com/nine/music/adapter/FavouriteAdapter.java
+END
+RadioAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/music/!svn/ver/212/Music/src/com/nine/music/adapter/RadioAdapter.java
+END
+FindTopAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/music/!svn/ver/212/Music/src/com/nine/music/adapter/FindTopAdapter.java
+END
+SelectionAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/music/!svn/ver/212/Music/src/com/nine/music/adapter/SelectionAdapter.java
+END
+RankAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/music/!svn/ver/212/Music/src/com/nine/music/adapter/RankAdapter.java
+END
